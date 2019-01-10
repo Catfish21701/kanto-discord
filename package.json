@@ -1,0 +1,10 @@
+{
+    "name": "kanto",
+    "version": "0.0.0",
+    "description": "Bot that can create sheets, polls and checklists.",
+    "main": "index.js",
+    "author": "Katri Lantto",
+    "dependencies": {
+        "discord.js": "^11.4.2"
+    }
+}
