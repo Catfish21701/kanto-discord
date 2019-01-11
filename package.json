@@ -3,8 +3,29 @@
     "version": "0.0.0",
     "description": "Bot that can create sheets, polls and checklists.",
     "main": "index.js",
-    "author": "Katri Lantto",
+    "engines": {
+        "node": "10.15.0",
+        "npm": "*"
+    },
     "dependencies": {
         "discord.js": "^11.4.2"
-    }
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Catfish21701/kanto-discord.git"
+    },
+    "keywords": [
+        "kanto",
+        "heroku",
+        "discord.js"
+    ],
+    "author": "Katri Lantto",
+    "license": "None",
+    "bugs": {
+        "url": "https://github.com/Catfish21701/kanto-discord/issues"
+    },
+    "homepage": "https://github.com/Catfish21701/kanto-discord#readme"
 }
